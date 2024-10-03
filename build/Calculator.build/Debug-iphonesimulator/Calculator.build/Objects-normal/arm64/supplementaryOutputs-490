@@ -1,0 +1,18 @@
+"/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/Calculator/beautifulView/ButtonStylesView3.swift":
+  swift-dependencies: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/arm64/ButtonStylesView3.swiftdeps"
+  dependencies: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/arm64/ButtonStylesView3.d"
+  const-values: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/arm64/ButtonStylesView3.swiftconstvalues"
+  object: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/arm64/ButtonStylesView3.o"
+  diagnostics: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/arm64/ButtonStylesView3.dia"
+"/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/Calculator/beautifulView/weixin2View.swift":
+  dependencies: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/arm64/weixin2View.d"
+  const-values: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/arm64/weixin2View.swiftconstvalues"
+  object: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/arm64/weixin2View.o"
+  swift-dependencies: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/arm64/weixin2View.swiftdeps"
+  diagnostics: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/arm64/weixin2View.dia"
+"/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/Calculator/beautifulView/weixinView.swift":
+  diagnostics: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/arm64/weixinView.dia"
+  object: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/arm64/weixinView.o"
+  const-values: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/arm64/weixinView.swiftconstvalues"
+  swift-dependencies: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/arm64/weixinView.swiftdeps"
+  dependencies: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/arm64/weixinView.d"

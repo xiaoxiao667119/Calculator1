@@ -1,0 +1,24 @@
+"/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/Calculator/AdvancedCalculatorView.swift":
+  object: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/arm64/AdvancedCalculatorView.o"
+  dependencies: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/arm64/AdvancedCalculatorView.d"
+  swift-dependencies: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/arm64/AdvancedCalculatorView.swiftdeps"
+  const-values: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/arm64/AdvancedCalculatorView.swiftconstvalues"
+  diagnostics: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/arm64/AdvancedCalculatorView.dia"
+"/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/Calculator/WaveformView.swift":
+  object: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/arm64/WaveformView.o"
+  swift-dependencies: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/arm64/WaveformView.swiftdeps"
+  dependencies: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/arm64/WaveformView.d"
+  const-values: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/arm64/WaveformView.swiftconstvalues"
+  diagnostics: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/arm64/WaveformView.dia"
+"/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/Calculator/beautifulView/SymmetricalComponentView.swift":
+  diagnostics: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/arm64/SymmetricalComponentView.dia"
+  object: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/arm64/SymmetricalComponentView.o"
+  dependencies: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/arm64/SymmetricalComponentView.d"
+  const-values: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/arm64/SymmetricalComponentView.swiftconstvalues"
+  swift-dependencies: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/arm64/SymmetricalComponentView.swiftdeps"
+"/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/Calculator/beautifulView/RelayProtectionView.swift":
+  object: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/arm64/RelayProtectionView.o"
+  dependencies: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/arm64/RelayProtectionView.d"
+  diagnostics: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/arm64/RelayProtectionView.dia"
+  const-values: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/arm64/RelayProtectionView.swiftconstvalues"
+  swift-dependencies: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/arm64/RelayProtectionView.swiftdeps"

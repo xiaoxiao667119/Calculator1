@@ -1,0 +1,32 @@
+{
+  "source": "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/Calculator/beautifulView/TanchuView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Button %lld"
+      },
+      {
+        "comment": "",
+        "key": "Alert"
+      },
+      {
+        "comment": "",
+        "key": "Button 3 Pressed"
+      },
+      {
+        "comment": "",
+        "key": "OK"
+      },
+      {
+        "comment": "",
+        "key": "Action Sheet"
+      },
+      {
+        "comment": "",
+        "key": "Button 4 Pressed"
+      }
+    ]
+  },
+  "version": 1
+}

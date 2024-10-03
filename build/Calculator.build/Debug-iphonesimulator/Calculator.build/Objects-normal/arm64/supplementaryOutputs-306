@@ -1,0 +1,18 @@
+"/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/Calculator/beautifulView/ButtonStylesView5.swift":
+  const-values: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/arm64/ButtonStylesView5.swiftconstvalues"
+  object: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/arm64/ButtonStylesView5.o"
+  swift-dependencies: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/arm64/ButtonStylesView5.swiftdeps"
+  dependencies: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/arm64/ButtonStylesView5.d"
+  diagnostics: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/arm64/ButtonStylesView5.dia"
+"/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/Calculator/beautifulView/beautiful2View.swift":
+  const-values: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/arm64/beautiful2View.swiftconstvalues"
+  dependencies: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/arm64/beautiful2View.d"
+  object: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/arm64/beautiful2View.o"
+  diagnostics: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/arm64/beautiful2View.dia"
+  swift-dependencies: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/arm64/beautiful2View.swiftdeps"
+"/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/Calculator/gongnengUIview/CircuitDiagramView2.swift":
+  object: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/arm64/CircuitDiagramView2.o"
+  const-values: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/arm64/CircuitDiagramView2.swiftconstvalues"
+  diagnostics: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/arm64/CircuitDiagramView2.dia"
+  dependencies: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/arm64/CircuitDiagramView2.d"
+  swift-dependencies: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/arm64/CircuitDiagramView2.swiftdeps"

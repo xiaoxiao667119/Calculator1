@@ -1,0 +1,18 @@
+"/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/Calculator/beautifulView/beautiful3View.swift":
+  swift-dependencies: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/arm64/beautiful3View.swiftdeps"
+  const-values: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/arm64/beautiful3View.swiftconstvalues"
+  dependencies: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/arm64/beautiful3View.d"
+  diagnostics: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/arm64/beautiful3View.dia"
+  object: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/arm64/beautiful3View.o"
+"/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/Calculator/beautifulView/RelayProtectionView.swift":
+  dependencies: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/arm64/RelayProtectionView.d"
+  swift-dependencies: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/arm64/RelayProtectionView.swiftdeps"
+  diagnostics: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/arm64/RelayProtectionView.dia"
+  object: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/arm64/RelayProtectionView.o"
+  const-values: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/arm64/RelayProtectionView.swiftconstvalues"
+"/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/Calculator/AdvancedCalculatorView.swift":
+  object: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/arm64/AdvancedCalculatorView.o"
+  diagnostics: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/arm64/AdvancedCalculatorView.dia"
+  swift-dependencies: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/arm64/AdvancedCalculatorView.swiftdeps"
+  dependencies: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/arm64/AdvancedCalculatorView.d"
+  const-values: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/arm64/AdvancedCalculatorView.swiftconstvalues"

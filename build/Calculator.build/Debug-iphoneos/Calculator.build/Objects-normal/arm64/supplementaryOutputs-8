@@ -1,0 +1,18 @@
+"/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/Calculator/beautifulView/jisuanqi1_2View.swift":
+  swift-dependencies: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphoneos/Calculator.build/Objects-normal/arm64/jisuanqi1_2View.swiftdeps"
+  dependencies: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphoneos/Calculator.build/Objects-normal/arm64/jisuanqi1_2View.d"
+  diagnostics: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphoneos/Calculator.build/Objects-normal/arm64/jisuanqi1_2View.dia"
+  object: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphoneos/Calculator.build/Objects-normal/arm64/jisuanqi1_2View.o"
+  const-values: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphoneos/Calculator.build/Objects-normal/arm64/jisuanqi1_2View.swiftconstvalues"
+"/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/Calculator/beautifulView/ButtonStylesView7.swift":
+  diagnostics: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphoneos/Calculator.build/Objects-normal/arm64/ButtonStylesView7.dia"
+  dependencies: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphoneos/Calculator.build/Objects-normal/arm64/ButtonStylesView7.d"
+  object: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphoneos/Calculator.build/Objects-normal/arm64/ButtonStylesView7.o"
+  const-values: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphoneos/Calculator.build/Objects-normal/arm64/ButtonStylesView7.swiftconstvalues"
+  swift-dependencies: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphoneos/Calculator.build/Objects-normal/arm64/ButtonStylesView7.swiftdeps"
+"/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/Calculator/beautifulView/jidianbaohuView.swift":
+  swift-dependencies: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphoneos/Calculator.build/Objects-normal/arm64/jidianbaohuView.swiftdeps"
+  diagnostics: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphoneos/Calculator.build/Objects-normal/arm64/jidianbaohuView.dia"
+  object: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphoneos/Calculator.build/Objects-normal/arm64/jidianbaohuView.o"
+  dependencies: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphoneos/Calculator.build/Objects-normal/arm64/jidianbaohuView.d"
+  const-values: "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/build/Calculator.build/Debug-iphoneos/Calculator.build/Objects-normal/arm64/jidianbaohuView.swiftconstvalues"

@@ -1,0 +1,20 @@
+{
+  "source": "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/Calculator/beautifulView/SymmetricalComponentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "对称分量法"
+      },
+      {
+        "comment": "",
+        "key": "输入数据"
+      },
+      {
+        "comment": "",
+        "key": "计算"
+      }
+    ]
+  },
+  "version": 1
+}

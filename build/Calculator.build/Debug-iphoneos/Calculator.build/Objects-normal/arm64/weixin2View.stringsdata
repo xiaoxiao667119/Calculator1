@@ -1,0 +1,16 @@
+{
+  "source": "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/Calculator/beautifulView/weixin2View.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "首页"
+      },
+      {
+        "comment": "",
+        "key": "Item %lld"
+      }
+    ]
+  },
+  "version": 1
+}

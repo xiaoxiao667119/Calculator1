@@ -1,0 +1,16 @@
+{
+  "source": "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/Calculator/beautifulView/baeutiful4View.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "主界面"
+      },
+      {
+        "comment": "",
+        "key": "切换界面"
+      }
+    ]
+  },
+  "version": 1
+}

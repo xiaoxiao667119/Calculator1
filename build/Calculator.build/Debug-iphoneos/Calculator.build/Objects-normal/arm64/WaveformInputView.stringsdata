@@ -1,0 +1,48 @@
+{
+  "source": "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/Calculator/WaveformInputView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Waveform Parameters"
+      },
+      {
+        "comment": "",
+        "key": "幅值:"
+      },
+      {
+        "comment": "",
+        "key": "Enter amplitude"
+      },
+      {
+        "comment": "",
+        "key": "频率:"
+      },
+      {
+        "comment": "",
+        "key": "Enter frequency"
+      },
+      {
+        "comment": "",
+        "key": "初相角:"
+      },
+      {
+        "comment": "",
+        "key": "Enter initial phase"
+      },
+      {
+        "comment": "",
+        "key": "时间:"
+      },
+      {
+        "comment": "",
+        "key": "Enter time"
+      },
+      {
+        "comment": "",
+        "key": "作图"
+      }
+    ]
+  },
+  "version": 1
+}

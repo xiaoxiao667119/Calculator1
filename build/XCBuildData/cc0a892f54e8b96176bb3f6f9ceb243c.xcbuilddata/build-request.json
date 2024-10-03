@@ -1,0 +1,104 @@
+{
+  "buildCommand" : {
+    "command" : "preview",
+    "style" : "dynamicReplacement"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "94efe385e6811bf359d0a6ccd9cedc31f6dccf50d306ca18ce7ac092001fb66c",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "undefined_arch",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : true,
+          "platform" : "iphoneos",
+          "sdk" : "iphoneos17.5",
+          "sdkVariant" : "iphoneos",
+          "supportedArchitectures" : [
+            "armv4t",
+            "armv5",
+            "armv6",
+            "armv7",
+            "armv7f",
+            "armv7s",
+            "armv7k",
+            "arm64",
+            "arm64e"
+          ],
+          "targetArchitecture" : "undefined_arch"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "",
+          "buildProductsPath" : "",
+          "derivedDataPath" : "/Users/jzp/Library/Developer/Xcode/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/jzp/Library/Developer/Xcode/DerivedData/Calculator-asoghukachedbcbsdakqjeqvdstw/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/jzp/Library/Developer/Xcode/DerivedData/Calculator-asoghukachedbcbsdakqjeqvdstw/Index.noindex/PrecompiledHeaders",
+          "pchPath" : ""
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "DSTROOT" : "/Users/jzp/Library/Developer/Xcode/DerivedData/Calculator-asoghukachedbcbsdakqjeqvdstw/Previews/iphoneos/Calculator/ReleaseProducts",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/jzp/Library/Developer/Xcode/DerivedData/Calculator-asoghukachedbcbsdakqjeqvdstw/Previews/iphoneos/Calculator/Intermediates.noindex",
+              "SYMROOT" : "/Users/jzp/Library/Developer/Xcode/DerivedData/Calculator-asoghukachedbcbsdakqjeqvdstw/Previews/iphoneos/Calculator/Products"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "containerPath" : "/Users/jzp/xcodeprogram/XcodeCpp1_WorkSpace/Calculator/Calculator.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "undefined_arch",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : true,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos17.5",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "armv4t",
+        "armv5",
+        "armv6",
+        "armv7",
+        "armv7f",
+        "armv7s",
+        "armv7k",
+        "arm64",
+        "arm64e"
+      ],
+      "targetArchitecture" : "undefined_arch"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/jzp/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/jzp/Library/Developer/Xcode/DerivedData/Calculator-asoghukachedbcbsdakqjeqvdstw/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/jzp/Library/Developer/Xcode/DerivedData/Calculator-asoghukachedbcbsdakqjeqvdstw/Index.noindex/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
