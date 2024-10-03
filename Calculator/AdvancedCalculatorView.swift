@@ -62,11 +62,11 @@ struct AdvancedCalculatorView: View {
         ["f1", "±", "%", "Rand", "WW", "x²", "x³"],
 
         // 底下5行，每行6个按钮
-        ["sin", "7", "8", "9", "÷", ""π""],
-        ["cos", "4", "5", "6", "×", "log"],
+        ["sin", "7", "8", "9", "÷", "π"],
+        ["cos", "4", "5", "6", "×", "√"],
         ["tan", "1", "2", "3", "−", "e"],
-        ["√", "0", ".", "=", "+", "^"],
-        ["xʸ", "AC", "(", ")", "C", "10ʸ"],
+        ["log", "0", ".", "=", "+", "xʸ"],
+        ["^", "AC", "(", ")", "C", "10ʸ"],
     ]
 
     var body: some View {
@@ -204,7 +204,23 @@ struct AdvancedCalculatorView: View {
                                     if columnIndex < buttons[rowIndex].count {
                                         let button = buttons[rowIndex][columnIndex]
                                         Button(action: {
-                                            handleButtonPress(button)
+                                            switch button {
+                                            case "f1":
+                                                isWaveformInputActive = true
+                                            case "WW":
+                                                isBeautiful3ViewActive = true
+                                            case "SS":
+                                                isrealButton1ViewActive = true
+                                            case "XX":
+                                                iszuohuaViewActive = true
+                                            case "YY":
+                                                isweixinViewActive = true
+                                            case "ZZ":
+                                                isjisuanqi1ViewActive = true
+                                            default:
+                                                handleButtonPress(button)
+                                            }
+//                                            handleButtonPress(button)
                                         }) {
                                             Text(button)
                                                 .font(.title3)
