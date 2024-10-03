@@ -1,2 +1,0 @@
-Target dependency graph (1 target)
-Target 'Calculator' in project 'Calculator' (no dependencies)
