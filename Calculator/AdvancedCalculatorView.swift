@@ -1,5 +1,6 @@
 import Foundation
 import SwiftUI
+import UIKit
 
 struct AdvancedCalculatorView: View {
     @State private var display = "0"
@@ -14,6 +15,8 @@ struct AdvancedCalculatorView: View {
     @State private var isPowerActive = false
     @State private var selectedTab = 0
     @State private var showingMoreOptions = false
+
+    
 
 //    let buttons: [[String]] = [
 //
@@ -56,16 +59,21 @@ struct AdvancedCalculatorView: View {
 //    ]
     let buttons: [[String]] = [
         // 上面4行，每行7个按钮
-        ["SS", "XX", "YY", "asin", "acos", "atan", "n!"],
-        ["sinh", "cosh", "tanh", "sinh⁻¹", "cosh⁻¹", "tanh⁻¹", "MR"],
-        ["exp", "mod", "ZZ", "γ", "M+", "M-", "MRC"],
-        ["f1", "±", "%", "Rand", "WW", "x²", "x³"],
+//        ["f2", "f4", "f5", "asin", "acos", "atan", "n!"],
+//        ["sinh", "cosh", "tanh", "sinh⁻¹", "cosh⁻¹", "tanh⁻¹", "MR"],
+//        ["exp", "mod", "f6", "Shift", "M+", "M-", "MRC"],
+//        ["f1", "±", "%", "Rand", "f3", "x²", "x³"],
+        
+        ["f1", "exp", "mod",  "sinh⁻¹", "cosh⁻¹", "tanh⁻¹", "Alpha"],
+        ["f2", "f3", "xʸ", "sinh","cosh", "tanh", "Shift"],
+        ["f4", "f5", "f6", "asin", "acos", "atan", "n!"],
+        ["Rand", "±", "%", "π", "M+", "M-", "MRC"],
 
         // 底下5行，每行6个按钮
-        ["sin", "7", "8", "9", "÷", "π"],
+        ["sin", "7", "8", "9", "÷", "MR"],
         ["cos", "4", "5", "6", "×", "√"],
-        ["tan", "1", "2", "3", "−", "e1234"],
-        ["log", "0", ".", "=", "+", "xʸ"],
+        ["tan", "1", "2", "3", "−", "e"],
+        ["lg10", "0", ".", "=", "+", "x²"],
         ["^", "AC", "(", ")", "C", "10ʸ"],
     ]
 
@@ -119,6 +127,8 @@ struct AdvancedCalculatorView: View {
             ])
         }
     }
+
+
 
     func calculatorView() -> some View {
         NavigationView {
@@ -204,18 +214,19 @@ struct AdvancedCalculatorView: View {
                                     if columnIndex < buttons[rowIndex].count {
                                         let button = buttons[rowIndex][columnIndex]
                                         Button(action: {
+                                            generateHapticFeedback() // 添加震动效果
                                             switch button {
                                             case "f1":
                                                 isWaveformInputActive = true
-                                            case "WW":
+                                            case "f2":
                                                 isBeautiful3ViewActive = true
-                                            case "SS":
+                                            case "f3":
                                                 isrealButton1ViewActive = true
-                                            case "XX":
+                                            case "f4":
                                                 iszuohuaViewActive = true
-                                            case "YY":
+                                            case "f5":
                                                 isweixinViewActive = true
-                                            case "ZZ":
+                                            case "f6":
                                                 isjisuanqi1ViewActive = true
                                             default:
                                                 handleButtonPress(button)
@@ -298,6 +309,11 @@ struct AdvancedCalculatorView: View {
             }
         }
     }
+
+func generateHapticFeedback() {
+    let impact = UIImpactFeedbackGenerator(style: .light)
+    impact.impactOccurred()
+}
 
     let functions: [String] = [
         "sin", // 正弦
@@ -548,8 +564,8 @@ struct AdvancedCalculatorView: View {
 
     func buttonframeW1(for button: String) -> CGFloat {
         switch button {
-        case "f1", "f2", "f3":
-            return 10
+        case "f1", "f2", "f3", "f4", "f5", "f6":
+            return 55
         case "÷", "×", "−", "+", "=":
             return 20
         case "sin", "cos", "tan", "lg10", "ln", "logX", "√", "^", "π", "exp", "mod", "inv", "n!", "sinh", "cosh", "tanh", "log2", "asin", "acos", "atan", "ln2", "sinh⁻¹", "cosh⁻¹", "tanh⁻¹", "logf", "x²", "x³", "xʸ", "2ʸ", "eʸ", "10ʸ", "x!", "x⁻¹", "π", "e", "γ", "φ", "Rand":
@@ -563,7 +579,7 @@ struct AdvancedCalculatorView: View {
 
     func buttonframeW2(for button: String) -> CGFloat {
         switch button {
-        case "f1", "f2", "f3":
+        case "f1", "f2", "f3", "f4", "f5", "f6":
             return 60
         case "÷", "×", "−", "+", "=":
             return 60
@@ -578,8 +594,8 @@ struct AdvancedCalculatorView: View {
 
     func buttonframeH1(for button: String) -> CGFloat {
         switch button {
-        case "f1", "f2", "f3":
-            return 60
+        case "f1", "f2", "f3", "f4", "f5", "f6":
+            return 50
         case "÷", "×", "−", "+", "=":
             return 55
         case "sin", "cos", "tan", "lg10", "ln", "logX", "√", "^", "π", "exp", "mod", "inv", "n!", "sinh", "cosh", "tanh", "log2", "asin", "acos", "atan", "ln2", "sinh⁻¹", "cosh⁻¹", "tanh⁻¹", "logf", "x²", "x³", "xʸ", "2ʸ", "eʸ", "10ʸ", "x!", "x⁻¹", "π", "e", "γ", "φ", "Rand":
@@ -593,8 +609,8 @@ struct AdvancedCalculatorView: View {
 
     func buttonframeH2(for button: String) -> CGFloat {
         switch button {
-        case "f1", "f2", "f3":
-            return 60
+        case "f1", "f2", "f3", "f4", "f5", "f6":
+            return 50
         case "÷", "×", "−", "+", "=":
             return 55
         case "sin", "cos", "tan", "lg10", "ln", "logX", "√", "^", "π", "exp", "mod", "inv", "n!", "sinh", "cosh", "tanh", "log2", "asin", "acos", "atan", "ln2", "sinh⁻¹", "cosh⁻¹", "tanh⁻¹", "logf", "x²", "x³", "xʸ", "2ʸ", "eʸ", "10ʸ", "x!", "x⁻¹", "π", "e", "γ", "φ", "Rand":
@@ -608,7 +624,7 @@ struct AdvancedCalculatorView: View {
 
     func buttonBackgroundColor(for button: String) -> Color {
         switch button {
-        case "f1", "f2", "f3":
+        case "f1", "f2", "f3", "f4", "f5", "f6":
             return Color.green.opacity(0.2)
         case "÷", "×", "−", "+", "=", "(", ")":
             return Color.gray.opacity(0.6)
